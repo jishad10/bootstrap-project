@@ -1,2 +1,2 @@
 # bootstrap-project
-A simple Bootstrap Project for learning purpose
+Learning Bootstrap & A simple Bootstrap Project for learning purpose
